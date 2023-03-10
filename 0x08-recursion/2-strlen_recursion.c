@@ -6,7 +6,7 @@
  *
  * Return: integer value
  */
-int _strlen_recursio(char *s)
+int _strlen_recursion(char *s)
 {
 	if (*s == '\0')
 	{
